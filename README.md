@@ -27,6 +27,6 @@ A lightweight, high performance console built using Swing.
 - Can't be instantiated
 - Fixed title is drawn through images
 
-> Peace
-
 > a Maradona experiment by WillUHD, 2025
+>
+> peace 
