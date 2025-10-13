@@ -27,6 +27,6 @@ A lightweight, high performance console built using Swing.
 - Can't be instantiated
 - Fixed title is drawn through images
 
-> a Maradona experiment by WillUHD, 2025
+> a Maradona experiment by WillUHD, 2025. All code in this repository is written by WillUHD, previously affiliated with DeepField which is related to [another individual](https://github.com/Ziqian-Huang0607)
 >
 > peace 
