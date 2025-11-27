@@ -1,6 +1,6 @@
 <div align="center">
   
-Maradona Console
+Console
 =
 A lightweight, high performance console built using Swing. 
 <div align="left">
@@ -13,12 +13,10 @@ A lightweight, high performance console built using Swing.
 
 ### Deprecated! 
 
-⚠️ Since Maradona's switch to the default UNIX terminal, this experiment has been deprecated. However, it's still quite an interesting piece of code!
+⚠️ This experiment has been deprecated. However, it's still quite an interesting piece of code!
 
-- I decided to switch away from this custom written terminal because it doesn't match the level of quality I'd expect in "production" software, also I don't really need it.
 - Please do not use this, it is garbage. Unless you somehow need a Java UI terminal for exclusively printing UTF8 text at a rate of 2 million lines/s. 
-- Ask yourself this question: Do I need a Java UI terminal to output data at a rate of 2 million lines per second?
-- Put on GitHub to at least archive the code I spent weeks on before I delete it
+- Put on GitHub to archive the code I spent weeks on before I delete it
 
 ### Current limitations (Not fixing them)
 
